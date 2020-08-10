@@ -15,3 +15,6 @@ Desafios e aprendizado com prática pode ser visto no HackerRank, servindo tamb�
 
 Desafios para os Devs Back-End estão disponíveis aqui:  
 [BackEnd Challengs](https://github.com/CollabCodeTech/backend-challenges)
+
+Desafios para todos! Seja Back-End, Front-End ou até mesmo FullStack, para todos os níveis:  
+[Dev Challenges](https://devchallenges.io/)
